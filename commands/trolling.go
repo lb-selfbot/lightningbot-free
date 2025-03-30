@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LightningDev1/LightningBot-Free/utils"
+	"github.com/lb-selfbot/lightningbot-free/utils"
 	"github.com/LightningDev1/dgc"
 )
 

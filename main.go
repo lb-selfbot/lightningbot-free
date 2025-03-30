@@ -8,10 +8,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/LightningDev1/LightningBot-Free/commands"
-	"github.com/LightningDev1/LightningBot-Free/config"
-	"github.com/LightningDev1/LightningBot-Free/events"
-	"github.com/LightningDev1/LightningBot-Free/utils"
+	"github.com/lb-selfbot/lightningbot-free/commands"
+	"github.com/lb-selfbot/lightningbot-free/config"
+	"github.com/lb-selfbot/lightningbot-free/events"
+	"github.com/lb-selfbot/lightningbot-free/utils"
 	"github.com/LightningDev1/dgc"
 	"github.com/LightningDev1/discordgo"
 )

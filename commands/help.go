@@ -5,9 +5,9 @@ import (
 	"math"
 	"strings"
 
-	"github.com/LightningDev1/LightningBot-Free/constants"
-	"github.com/LightningDev1/LightningBot-Free/embed"
-	"github.com/LightningDev1/LightningBot-Free/utils"
+	"github.com/lb-selfbot/lightningbot-free/constants"
+	"github.com/lb-selfbot/lightningbot-free/embed"
+	"github.com/lb-selfbot/lightningbot-free/utils"
 	"github.com/LightningDev1/dgc"
 )
 

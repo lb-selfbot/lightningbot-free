@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/LightningDev1/LightningBot-Free/embed"
-	"github.com/LightningDev1/LightningBot-Free/http"
-	"github.com/LightningDev1/LightningBot-Free/utils"
+	"github.com/lb-selfbot/lightningbot-free/embed"
+	"github.com/lb-selfbot/lightningbot-free/http"
+	"github.com/lb-selfbot/lightningbot-free/utils"
 	"github.com/LightningDev1/dgc"
 	"github.com/bitly/go-simplejson"
 )

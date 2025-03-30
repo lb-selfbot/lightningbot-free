@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LightningDev1/LightningBot-Free/constants"
-	"github.com/LightningDev1/LightningBot-Free/http"
+	"github.com/lb-selfbot/lightningbot-free/constants"
+	"github.com/lb-selfbot/lightningbot-free/http"
 	"github.com/LightningDev1/discordgo"
 	"github.com/bitly/go-simplejson"
 	"github.com/go-ping/ping"

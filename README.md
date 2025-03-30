@@ -13,7 +13,7 @@ This is the source code of the free version of LightningBot.
 
 <br>
 
-Go to https://github.com/LightningDev1/LightningBot-Free/releases and navigate to the latest release. There you will find an archive containing executables for Windows, Linux and macOS.
+Go to https://github.com/lb-selfbot/lightningbot-free/releases and navigate to the latest release. There you will find an archive containing executables for Windows, Linux and macOS.
 
 </details>
 
@@ -24,7 +24,7 @@ Go to https://github.com/LightningDev1/LightningBot-Free/releases and navigate t
 
 <br>
 
-Go to https://github.com/LightningDev1/LightningBot-Free/actions and navigate to the latest successful workflow run (one with a green checkmark). There you will find a download link to an archive called "artifacts.zip" which contains executables for Windows, Linux and macOS.
+Go to https://github.com/lb-selfbot/lightningbot-free/actions and navigate to the latest successful workflow run (one with a green checkmark). There you will find a download link to an archive called "artifacts.zip" which contains executables for Windows, Linux and macOS.
 
 </details>
 
@@ -36,7 +36,7 @@ Go to https://github.com/LightningDev1/LightningBot-Free/actions and navigate to
 <br>
 
 ```bash
-git clone https://github.com/LightningDev1/LightningBot-Free
+git clone https://github.com/lb-selfbot/lightningbot-free
 
 cd LightningBot-Free
 
